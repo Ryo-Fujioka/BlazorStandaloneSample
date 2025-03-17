@@ -1,0 +1,2 @@
+# BlazorStandaloneSample
+BlazorStandaloneSample
